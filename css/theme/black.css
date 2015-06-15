@@ -41,7 +41,8 @@ body {
   letter-spacing: normal;
   text-transform: uppercase;
   text-shadow: none;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  margin-bottom: 1.2em}
 
 .reveal h1 {
   font-size: 2.5em; }
@@ -80,6 +81,10 @@ body {
   display: inline-block;
   text-align: left;
   margin: 0 0 0 1em; }
+
+.reveal li{
+  margin-bottom: 1em
+}
 
 .reveal ol {
   list-style-type: decimal; }
